@@ -1,7 +1,7 @@
 # Meta-Back-End-Course
 ## Introduction to Back-End
 ### Week 1:
-    * diffrence between Front-end, Back-End and Full-Stack roles.
+    * Diffrence between Front-end, Back-End and Full-Stack roles.
     * How servers  and internet protocols work.
 ### Week 2:
    * HTML.
