@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+      <title>Form</title>
+    </head>
+    <body>
+
+    <h1>Log In</h1>
+    <h1 id="header1"> Website</h1>
+
+ <form action="/registration" method="post"> <!-- Actions specifies the URL or path that the form should submit the request to-->
+    <label for="username">Username: </label> <br>
+ <input type="text" name="username"> <br>
+ <label for="password">Password: </label><br>
+ <input type="password"> <br>
+ <input type="submit"> <br>
+ </form>
+
+ <h2> CheckBox</h2> 
+ <input type="checkbox" name="male" value="Male"/> 
+ <label for="male"> Male</label> <br>
+ <input type="checkbox" name="female" value="Female"/>
+  <label for="female"> Female</label> <br>
+
+  <h2>Radio Button </h2> 
+    <input type="radio" name="right">
+    <label for="right">I am right handed</label> <br>
+    <input type="radio" name="left">
+    <label for="left">I am left handed</label> <br>
+     
+     <label for="age"> Age:</label> <br>
+    <input type="number" name="age"> <br>
+
+    <label for="email"> Email:</label> <br>
+    <input type="email" name="email"><br>
+    
+    <label for="cv"> Your CV :</label> <br>
+    <input type="file" name="cv"> <br>
+   <label for="multiline"> Talk about yourself :</label> <br> 
+     
+    <textarea name="multiline" rows="5"></textarea> <br>
+    <label for="food"> Select your favorite :</label> <br> 
+    <select name="food">
+         <option value="select"> Select</option>
+     <option value="chocolate"> chocolate</option>
+     <option value="Ice-Cream"> Ice-Cream</option>
+    </select>
+    <div>
+    <span> Lorem ipsum dolor sit amet.</span>
+    <div id="middel"> <em> lorem ipsum</em></div>
+    <span>ay haga</span>
+
+    </div>
+
+
+    </body>
+</html>
