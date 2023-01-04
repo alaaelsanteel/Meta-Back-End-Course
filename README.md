@@ -8,7 +8,7 @@
  > * CSS. 
 ### Week 3:
  > * UI Frameworks using Bootstrap.
- > * Intro to React.
+ > * React.
  > * Static and dynamic contant, Single page applications and Virtual DOM.
 ### Week 4:
  > * Synthesize the skills from the course to create a Bio Page.
