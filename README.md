@@ -1,5 +1,5 @@
 # Meta-Back-End-Course
-## Introduction to Back-End
+## 1- Introduction to Back-End
 ### Week 1:
   > * Diffrence between Front-end, Back-End and Full-Stack roles.
   > * How servers  and internet protocols work.
@@ -13,7 +13,7 @@
 ### Week 4:
  > * Synthesize the skills from the course to create a Bio Page.
  
-## Programming In Python
+## 2- Programming In Python
 ### Week 1:
   > * Conditions, Looping and Control Flow.
 ### Week 2:
